@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Pacifico&family=Sriracha&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+  /* smooth scrolling code*/
+  html{
+    scroll-behavior: smooth;
+  }
